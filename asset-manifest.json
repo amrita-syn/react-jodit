@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-jodit/static/css/main.cfda8877.chunk.css",
-    "main.js": "/react-jodit/static/js/main.8d225e1f.chunk.js",
-    "main.js.map": "/react-jodit/static/js/main.8d225e1f.chunk.js.map",
+    "main.js": "/react-jodit/static/js/main.3daa4a8e.chunk.js",
+    "main.js.map": "/react-jodit/static/js/main.3daa4a8e.chunk.js.map",
     "runtime~main.js": "/react-jodit/static/js/runtime~main.d8e2e6fa.js",
     "runtime~main.js.map": "/react-jodit/static/js/runtime~main.d8e2e6fa.js.map",
-    "static/css/2.3c32c305.chunk.css": "/react-jodit/static/css/2.3c32c305.chunk.css",
-    "static/js/2.9cce5ab6.chunk.js": "/react-jodit/static/js/2.9cce5ab6.chunk.js",
-    "static/js/2.9cce5ab6.chunk.js.map": "/react-jodit/static/js/2.9cce5ab6.chunk.js.map",
+    "static/css/2.477c6afa.chunk.css": "/react-jodit/static/css/2.477c6afa.chunk.css",
+    "static/js/2.c58cbfd5.chunk.js": "/react-jodit/static/js/2.c58cbfd5.chunk.js",
+    "static/js/2.c58cbfd5.chunk.js.map": "/react-jodit/static/js/2.c58cbfd5.chunk.js.map",
     "index.html": "/react-jodit/index.html",
-    "precache-manifest.abc458483630d5e5584c21a689408e34.js": "/react-jodit/precache-manifest.abc458483630d5e5584c21a689408e34.js",
+    "precache-manifest.798bd1f61368e8eeb01391c4eccb06dd.js": "/react-jodit/precache-manifest.798bd1f61368e8eeb01391c4eccb06dd.js",
     "service-worker.js": "/react-jodit/service-worker.js",
-    "static/css/2.3c32c305.chunk.css.map": "/react-jodit/static/css/2.3c32c305.chunk.css.map",
+    "static/css/2.477c6afa.chunk.css.map": "/react-jodit/static/css/2.477c6afa.chunk.css.map",
     "static/css/main.cfda8877.chunk.css.map": "/react-jodit/static/css/main.cfda8877.chunk.css.map"
   }
 }
