@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "210a46a868d8c4b093c4df725ffaf1de",
+    "revision": "c52e2bd3e0d3e5da035f2fe3d9faa05c",
     "url": "/react-jodit/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-jodit/static/css/2.477c6afa.chunk.css"
   },
   {
-    "revision": "5d579f99c8b6b691385e",
+    "revision": "b94952b7adc7eeeb8e23",
     "url": "/react-jodit/static/css/main.cfda8877.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-jodit/static/js/2.c58cbfd5.chunk.js"
   },
   {
-    "revision": "5d579f99c8b6b691385e",
-    "url": "/react-jodit/static/js/main.152c29c6.chunk.js"
+    "revision": "b94952b7adc7eeeb8e23",
+    "url": "/react-jodit/static/js/main.d05c4c0a.chunk.js"
   },
   {
     "revision": "c1f5344cabed66afe481",

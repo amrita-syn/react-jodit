@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-jodit/static/css/main.cfda8877.chunk.css",
-    "main.js": "/react-jodit/static/js/main.152c29c6.chunk.js",
-    "main.js.map": "/react-jodit/static/js/main.152c29c6.chunk.js.map",
+    "main.js": "/react-jodit/static/js/main.d05c4c0a.chunk.js",
+    "main.js.map": "/react-jodit/static/js/main.d05c4c0a.chunk.js.map",
     "runtime~main.js": "/react-jodit/static/js/runtime~main.d8e2e6fa.js",
     "runtime~main.js.map": "/react-jodit/static/js/runtime~main.d8e2e6fa.js.map",
     "static/css/2.477c6afa.chunk.css": "/react-jodit/static/css/2.477c6afa.chunk.css",
     "static/js/2.c58cbfd5.chunk.js": "/react-jodit/static/js/2.c58cbfd5.chunk.js",
     "static/js/2.c58cbfd5.chunk.js.map": "/react-jodit/static/js/2.c58cbfd5.chunk.js.map",
     "index.html": "/react-jodit/index.html",
-    "precache-manifest.09704c7454109a8580ee74417c52da3e.js": "/react-jodit/precache-manifest.09704c7454109a8580ee74417c52da3e.js",
+    "precache-manifest.2716756c1624826bae57702932eed4b1.js": "/react-jodit/precache-manifest.2716756c1624826bae57702932eed4b1.js",
     "service-worker.js": "/react-jodit/service-worker.js",
     "static/css/2.477c6afa.chunk.css.map": "/react-jodit/static/css/2.477c6afa.chunk.css.map",
     "static/css/main.cfda8877.chunk.css.map": "/react-jodit/static/css/main.cfda8877.chunk.css.map"
