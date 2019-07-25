@@ -1,7 +1,6 @@
 {
   "name": "react-jodit",
   "version": "0.1.0",
-  "private": true,
   "homepage" : "http://amrita-syn.github.io/react-jodit",
   "dependencies": {
     "jodit-react": "^1.0.26",
